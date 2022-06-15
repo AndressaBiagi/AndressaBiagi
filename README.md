@@ -1,4 +1,5 @@
-Olá, Meu nome é Andressa, sou formada em design de moda e conhecimento em e-commerce, medias sociais, marketing e design direcionado para a área da moda. 
+# Olá,
+Meu nome é Andressa, sou formada em design de moda e conhecimento em e-commerce, medias sociais, marketing e design direcionado para a área da moda. 
 Uma grande paixão pela área da tecnologia e por isso estou em fase de transição de carreiras, e acredito que minha experiência na área de design 
 será um adicional relevante nessa nova fase.
 
@@ -9,7 +10,7 @@ Meu objetivo no mercado é fazer parte de uma empresa onde eu possa adquirir exp
 agregando meus valores e conhecimento para evoluir e prosperar junto ao grupo.
 
 
-Hi, 
+# Hi, 
 My name is Andressa, I have a degree in fashion design and knowledge in e-commerce, social media, marketing and design focused in fashion.
 A great passion for technology and coding, and that's why i'm in a career transition phase, and i believe that my experience in the design business
 will be a relevant addition in this new chapter.
