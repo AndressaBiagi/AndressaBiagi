@@ -4,7 +4,7 @@
 ## 🚀 About me
 I am passionate about technology and learning. I started my study path through free courses and now I dedicate myself to personal projects to build a portfolio that demonstrates my experience. I've always been curious about how things happened behind screens and today, not only do I understand, but I also know how to develop my own applications.
 
-- 🌱 I’m currently learning **software development in JAVA with the Johnsons&Johnsons MedTech and mesttra. training program and i intend to learn React as soon as possible!**
+- 🌱 I’m currently learning **software development in JAVA with the Johnsons&Johnsons MedTech and mesttra. training program, unit tests with NODE.JS and Mocha and i intend to learn React as soon as possible!**
 
 - 👨‍💻 All of my projects are available at [*not available yet*]
 
