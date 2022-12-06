@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andressa Biagi</h1>
-<h3 align="center">A Self-taught Front-end Developer</h3>
+<h3 align="center">A Self-taught Software Developer</h3>
 
 ## 🚀 About me
 I am passionate about technology and learning. I started my study path through free courses and now I dedicate myself to personal projects to build a portfolio that demonstrates my experience. I've always been curious about how things happened behind screens and today, not only do I understand, but I also know how to develop my own applications.
